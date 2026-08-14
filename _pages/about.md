@@ -1,34 +1,42 @@
+
 ---
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.itm.edu.co/'>Instituto Tecnológico Metropolitano (ITM)</a> · Electronic Engineer · Researcher · University Lecturer
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Instituto Tecnológico Metropolitano (ITM)</p>
+    <p>Medellín, Colombia</p>
+    <p>cristianescudero@itm.edu.co</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Electronic Engineer, researcher, and university lecturer with a Master's degree in Industrial Automation and Control from the Instituto Tecnológico Metropolitano (ITM) in Medellín, Colombia.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are focused on **power electronics, control systems, DC-DC power converters, DC microgrids, renewable energy systems, and embedded control**. My work includes the modeling, simulation, design, implementation, and experimental validation of power electronic converters and their control strategies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my master's research, I worked on the development of control strategies for **Dual Active Bridge (DAB) converters** applied to bidirectional energy transfer between DC microgrids. My research experience also includes participation in projects related to sustainable energy systems, photovoltaic generation, energy storage, microgrid experimentation, and power management.
+
+I have participated in research projects funded by **Minciencias**, supporting the development and experimental validation of sustainable, reliable, and efficient energy systems. My activities have included power electronic converter implementation, electronic prototyping, hardware development, experimental testing, technical documentation, and research publications.
+
+As a university lecturer at ITM, I have taught courses related to **Electrical Circuits and Industrial Electronics**, combining theoretical concepts with circuit simulation, laboratory experimentation, electronic design, and practical engineering applications.
+
+I am also interested in **PCB design, electronic circuit development, embedded systems, digital control, instrumentation, and renewable energy applications**. My goal is to contribute to the development of practical and efficient solutions for modern power conversion and energy systems.
+
