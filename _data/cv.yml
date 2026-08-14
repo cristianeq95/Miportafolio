@@ -1,10 +1,10 @@
 cv:
   name: Cristian Escudero Quintero
-  label: Msc
+  label: M.Sc. in Industrial Automation and Control
   email: cristianescudero@itm.edu.co
   location: Medellin, COL
   image: ""
-  summary: An electronic engineer and researcher passionate about electronics, power systems, and PCB design, with a strong interest in developing innovative solutions through engineering and technology.
+  summary: Electronic engineer and researcher passionate about electronics, power systems, and PCB design, with a strong interest in developing innovative solutions through engineering and technology.
 
   social_networks:
     #- network: X
@@ -23,28 +23,31 @@ cv:
 
   sections:
     Education:
-      - institution: Intitucion Universitaria ITM
-        location: Medellin, Colombia
+      - institution: Instituto Tecnológico Metropolitano (ITM)
+        location: Medellín, Colombia
         url: https://www.itm.edu.co/
-        area: Engineering
-        studyType: Msc
-        start_date: 2013
+        area: Industrial Automation and Control
+        studyType: Master of Science (M.Sc.)
+        start_date: 2024
         end_date: 2026
         score: ""
-        courses: "Theory of Relativity"
+        courses: "Control Systems, Power Electronics, Industrial Automation, Modeling and Simulation"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Research focused on control strategies for power electronic converters.
+          - Design, modeling, simulation, and experimental validation of Dual Active Bridge (DAB) converters.
+          - Research applications in DC microgrids and renewable energy systems.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Medellin, Colombia
-        area: Engineering
-        studyType: Electronics and Automation,
-        start_date: 2025
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+    - institution: Instituto Tecnológico Metropolitano (ITM)
+      location: Medellín, Colombia
+      area: Electronic Engineering
+      studyType: Bachelor's Degree
+      start_date: 2018
+      end_date: 2021
+      highlights:
+        - Academic training in electronics, circuit design, control systems, and power electronics.
+        - Development of practical projects involving electronic circuits, embedded systems, and PCB design.
+
+          
 
     Experience:
       - company: Instituto Tecnológico Metropolitano (ITM)
