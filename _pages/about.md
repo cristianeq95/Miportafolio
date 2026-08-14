@@ -1,31 +1,30 @@
-
 ---
-layout: about
-title: about
-permalink: /
-subtitle: <a href='https://www.itm.edu.co/'>Instituto Tecnológico Metropolitano (ITM)</a> · Electronic Engineer · Researcher · University Lecturer
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false
-  more_info: >
-    <p>Instituto Tecnológico Metropolitano (ITM)</p>
-    <p>Medellín, Colombia</p>
-    <p>cristianescudero@itm.edu.co</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
-
-latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
+  layout: about
+  title: about
+  permalink: /
+  subtitle: <a href='https://www.itm.edu.co/'>Instituto Tecnológico Metropolitano (ITM)</a> · Electronic Engineer · Researcher · University Lecturer
+  
+  profile:
+    align: right
+    image: prof_pic.jpg
+    image_circular: false
+    more_info: >
+      <p>Instituto Tecnológico Metropolitano (ITM)</p>
+      <p>Medellín, Colombia</p>
+      <p>cristianescudero@itm.edu.co</p>
+  
+  selected_papers: true # includes a list of papers marked as "selected={true}"
+  social: true # includes social icons at the bottom of the page
+  
+  announcements:
+    enabled: true
+    scrollable: true
+    limit: 5
+  
+  latest_posts:
+    enabled: true
+    scrollable: true
+    limit: 3
 ---
 
 I am an Electronic Engineer, researcher, and university lecturer with a Master's degree in Industrial Automation and Control from the Instituto Tecnológico Metropolitano (ITM) in Medellín, Colombia.
