@@ -36,16 +36,16 @@ cv:
           - Research focused on control strategies for power electronic converters.
           - Design, modeling, simulation, and experimental validation of Dual Active Bridge (DAB) converters.
           - Research applications in DC microgrids and renewable energy systems.
-
-    - institution: Instituto Tecnológico Metropolitano (ITM)
-      location: Medellín, Colombia
-      area: Electronic Engineering
-      studyType: Bachelor's Degree
-      start_date: 2018
-      end_date: 2021
-      highlights:
-        - Academic training in electronics, circuit design, control systems, and power electronics.
-        - Development of practical projects involving electronic circuits, embedded systems, and PCB design.
+  
+      - institution: Instituto Tecnológico Metropolitano (ITM)
+        location: Medellín, Colombia
+        area: Electronic Engineering
+        studyType: Bachelor's Degree
+        start_date: 2018
+        end_date: 2021
+        highlights:
+          - Academic training in electronics, circuit design, control systems, and power electronics.
+          - Development of practical projects involving electronic circuits, embedded systems, and PCB design.
 
           
 
